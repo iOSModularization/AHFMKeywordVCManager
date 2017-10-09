@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AHFMKeywordVCManager_Example' do
+  pod 'AHFMKeywordVCManager', :path => '../'
+
+  target 'AHFMKeywordVCManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
