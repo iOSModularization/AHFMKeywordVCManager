@@ -1,0 +1,51 @@
+{
+  "name": "AHFMKeywordVCManager",
+  "version": "0.1.0",
+  "summary": "A short description of AHFMKeywordVCManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ivsall2012/AHFMKeywordVCManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ivsall2012": "ivsall2012@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ivsall2012/AHFMKeywordVCManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AHFMKeywordVCManager/Classes/**/*",
+  "dependencies": {
+    "AHFMModuleManager": [
+
+    ],
+    "AHServiceRouter": [
+
+    ],
+    "AHFMKeywordVCServices": [
+
+    ],
+    "AHFMShowPageServices": [
+
+    ],
+    "AHFMBottomPlayerServices": [
+
+    ],
+    "AHFMAudioPlayerVCServices": [
+
+    ],
+    "AHFMDataCenter": [
+
+    ],
+    "AHFMNetworking": [
+
+    ],
+    "AHFMDataTransformers": [
+
+    ]
+  }
+}
